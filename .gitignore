@@ -1,0 +1,30 @@
+# Environment and dependency folders
+.env
+.venv/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases and logs
+*.db
+*.sqlite3
+*.log
+
+# Caches
+.cache/
+
+# IDE/editor settings
+.DS_Store
+.idea/
+.vscode/
+
+# Package info
+*.egg-info/
+
+# Project-specific files you want to exclude
+chatbot.py
+main.ipymb
+test.ipynb
